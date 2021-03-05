@@ -1,3 +1,7 @@
+html{
+    scroll-behavior: smooth;
+}
+
 body, ul, li, h1, h2, h3, a {
     margin: 0;
     padding: 0;
